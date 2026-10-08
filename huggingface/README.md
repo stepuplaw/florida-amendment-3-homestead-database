@@ -26,6 +26,7 @@ What Florida's Amendment 3 (November 3, 2026 ballot) would save homestead owners
 Compiled by [Kevin D. Klagge, Esq.](https://stepuplaw.com/about), a Florida estate planning attorney (Klagge Law, PLLC).
 
 - Canonical page with the county table, a calculator and the citation: <https://stepuplaw.com/florida-amendment-3/>
+- DOI: <https://doi.org/10.5281/zenodo.23226000>
 - Source repository: <https://github.com/stepuplaw/florida-amendment-3-homestead-database>
 
 Estimates hold assessed values at 2026 and ignore senior, veteran and other exemptions. Estimates, not tax advice. License CC BY 4.0.

@@ -1,0 +1,13 @@
+{
+  "title": "Florida Amendment 3 Homestead Savings by County",
+  "subtitle": "Estimated 2027 and 2028 non-school tax savings, all 67 Florida counties",
+  "id": "stepuplaw/florida-amendment-3-homestead-database",
+  "licenses": [{"name": "CC-BY-4.0"}],
+  "keywords": ["government", "finance", "tax", "united states"],
+  "description": "What Florida's Amendment 3 (November 3, 2026 ballot) would save homestead owners in each of the state's 67 counties, computed from every homestead parcel on the Florida Department of Revenue's 2026 preliminary roll (5,251,737 homesteads) and each county's 2025 non-school millage. The amendment raises the non-school homestead exemption to $150,000 in 2027 and $250,000 in 2028. School taxes do not change.\n\nEstimates hold assessed values at 2026 and ignore senior, veteran and other exemptions.\n\nCanonical page, calculator and citation: https://stepuplaw.com/florida-amendment-3/\nSource repository and model: https://github.com/stepuplaw/florida-amendment-3-homestead-database\nAuthor: Kevin D. Klagge, Klagge Law, PLLC, ORCID https://orcid.org/0009-0002-1385-8498\n\nEstimates, not tax advice.",
+  "resources": [
+    {"path": "counties.csv", "description": "One row per county, 67 rows"},
+    {"path": "counties.json", "description": "The same rows as a JSON array"},
+    {"path": "schema.json", "description": "Data dictionary"}
+  ]
+}

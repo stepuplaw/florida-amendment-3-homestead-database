@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Florida Amendment 3 Homestead Database, 67 Counties (2026)"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - family-names: Klagge
+    given-names: Kevin D.
+    affiliation: "Klagge Law, PLLC (StepUpLaw)"
+    orcid: "https://orcid.org/0009-0002-1385-8498"
+version: "2026.10.08"
+date-released: "2026-10-08"
+license: CC-BY-4.0
+url: "https://stepuplaw.com/florida-amendment-3/"
+repository-code: "https://github.com/stepuplaw/florida-amendment-3-homestead-database"
+abstract: "Estimated non-school property tax saved by homestead owners in each of Florida's 67 counties if Amendment 3 (2026 ballot, HJR 1F) passes, computed from every homestead parcel's assessed value on the Florida Department of Revenue 2026 preliminary roll (5,251,737 homesteads) and each county's 2025 non-school millage. Reports median assessed value, median and percentile savings for 2027 and 2028, the share of homesteads owing no non-school tax in 2028, and the county-wide reduction."
+keywords:
+  - Amendment 3
+  - Florida
+  - homestead exemption
+  - property tax
+  - ballot measure
+  - 2026 election
+  - tax policy

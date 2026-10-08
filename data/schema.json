@@ -1,0 +1,75 @@
+{
+ "fields": [
+  {
+   "name": "county",
+   "type": "string",
+   "description": "Florida county name (67 rows)"
+  },
+  {
+   "name": "homestead_parcels",
+   "type": "integer",
+   "description": "Parcels on the 2026 preliminary roll with a homestead just value above zero"
+  },
+  {
+   "name": "median_assessed_value",
+   "type": "integer",
+   "description": "Median homestead assessed value (AV_HMSTD) in the county, 2026 preliminary roll, in dollars"
+  },
+  {
+   "name": "total_millage_2025",
+   "type": "number",
+   "description": "County average total millage, 2025, DOR Data Book (mills per $1,000)"
+  },
+  {
+   "name": "nonschool_millage_2025",
+   "type": "number",
+   "description": "Total millage minus School Board Operating and School Board Debt Service, 2025 (mills)"
+  },
+  {
+   "name": "median_added_exemption_2027",
+   "type": "integer",
+   "description": "Median added exemption in 2027 ($150,000 exemption) over the current non-school exemption, in dollars of assessed value"
+  },
+  {
+   "name": "median_tax_saved_2027",
+   "type": "integer",
+   "description": "Estimated non-school tax saved in 2027 by the median homestead, in dollars"
+  },
+  {
+   "name": "median_added_exemption_2028",
+   "type": "integer",
+   "description": "Median added exemption in 2028 ($250,000 exemption) over the current non-school exemption, in dollars of assessed value"
+  },
+  {
+   "name": "median_tax_saved_2028",
+   "type": "integer",
+   "description": "Estimated non-school tax saved a year from 2028 by the median homestead, in dollars"
+  },
+  {
+   "name": "p25_tax_saved_2028",
+   "type": "integer",
+   "description": "25th percentile of estimated non-school tax saved in 2028, in dollars"
+  },
+  {
+   "name": "p75_tax_saved_2028",
+   "type": "integer",
+   "description": "75th percentile of estimated non-school tax saved in 2028, in dollars"
+  },
+  {
+   "name": "share_no_nonschool_tax_2028",
+   "type": "number",
+   "description": "Share of homesteads assessed at $250,000 or less, which would owe no non-school tax in 2028 (0 to 1)"
+  },
+  {
+   "name": "total_added_exemption_2028",
+   "type": "integer",
+   "description": "Sum of added 2028 exemption across all homesteads in the county, in dollars of assessed value"
+  },
+  {
+   "name": "est_nonschool_tax_reduction_2028",
+   "type": "integer",
+   "description": "Estimated county-wide reduction in non-school homestead tax in 2028, in dollars, at 2025 millage"
+  }
+ ],
+ "primaryKey": "county"
+}

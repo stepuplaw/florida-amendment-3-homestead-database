@@ -22,6 +22,8 @@ FILES = [
     ROOT / "data" / "counties.csv",
     ROOT / "data" / "counties.json",
     ROOT / "data" / "schema.json",
+    ROOT / "data" / "official_losses_by_county.csv",
+    ROOT / "data" / "official_losses_by_authority.csv",
 ]
 
 

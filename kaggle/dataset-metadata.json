@@ -26,6 +26,14 @@
     {
       "path": "schema.json",
       "description": "Data dictionary"
+    },
+    {
+      "path": "official_losses_by_county.csv",
+      "description": "State estimate of local revenue lost by county, FY 2026-27 to 2030-31 (Revenue Estimating Conference, July 10, 2026)"
+    },
+    {
+      "path": "official_losses_by_authority.csv",
+      "description": "State estimate for 548 county commissions, cities and special districts"
     }
   ]
 }

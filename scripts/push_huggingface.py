@@ -23,6 +23,8 @@ FILES = [
     (ROOT / "data" / "counties.csv", "counties.csv"),
     (ROOT / "data" / "counties.json", "counties.json"),
     (ROOT / "data" / "schema.json", "schema.json"),
+    (ROOT / "data" / "official_losses_by_county.csv", "official_losses_by_county.csv"),
+    (ROOT / "data" / "official_losses_by_authority.csv", "official_losses_by_authority.csv"),
     (ROOT / "LICENSE", "LICENSE"),
     (ROOT / "CITATION.cff", "CITATION.cff"),
 ]
